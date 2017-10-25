@@ -1,0 +1,27 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "Game of hangman using constructors",
+  "main": "game.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjunha93/hangmanCLI.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Jun Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjunha93/hangmanCLI/issues"
+  },
+  "homepage": "https://github.com/anjunha93/hangmanCLI#readme"
+}
